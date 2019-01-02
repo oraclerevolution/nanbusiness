@@ -515,7 +515,10 @@ h1, h2, h3, h4, h5, h6, figure {
       margin-bottom: 20px; } }
 
 .services-desc {
-  padding: 0 1em; }
+  padding: 0 1em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.3em;
+}
   @media screen and (max-width: 768px) {
     .services-desc {
       padding: 0; } }
